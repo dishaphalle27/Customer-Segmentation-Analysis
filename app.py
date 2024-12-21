@@ -4,9 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pickle
 import os
-import os
-os.system('pip install matplotlib')
-import matplotlib.pyplot as plt
+
 
 
 # Define mappings for education and marital status
